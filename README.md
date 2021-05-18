@@ -1,5 +1,5 @@
 # Hi 👋, I’m Jonathan Brus
-### A passionate Fuul-stack Web Developer
+### A passionate Full-stack Web Developer
 
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning **Everything**
