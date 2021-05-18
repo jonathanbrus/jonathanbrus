@@ -1,5 +1,5 @@
 # Hi 👋, I’m Jonathan Brus
-### A passionate Web Developer from India
+### A passionate Fuul-stack Web Developer
 
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning **Everything**
