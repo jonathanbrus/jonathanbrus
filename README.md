@@ -7,13 +7,11 @@
 
 #### __Instagram:__ <a href="https://instagram.com/joey.__10" target="blank">Jonathan Brus</a>
 
-### What I know :
-
-- **Languages**
+### **Languages**
   - JavaScript
   - Dart
 
-- **Frameworks**
+### **Frameworks**
   - React
   - Flutter
   - Express
