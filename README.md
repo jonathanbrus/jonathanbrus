@@ -1,13 +1,22 @@
 # Hi 👋, I’m Jonathan Brus
-### A passionate Full-stack Web Developer
+### A passionate Full-stack Developer
 
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning **Everything**
-- 💬 Ask me about **ReactJS, React Native, NodeJS**
-- ⚡ Fun fact **Coffee and Music are my best friends.**
+- 👀 Interested in new technologies
+- 🌱 Currently learning **Everything**
+- ⚡ **Coffee and Music are my best friends.**
 
-### Connect with me:
-- __Instagram:__ <a href="https://instagram.com/joey.__10" target="blank">Jonathan Brus</a>
+#### __Instagram:__ <a href="https://instagram.com/joey.__10" target="blank">Jonathan Brus</a>
+
+### What I know :
+
+- **Languages**
+  - JavaScript
+  - Dart
+
+- **Frameworks**
+  - React
+  - Flutter
+  - Express
 
 <!---
 jonathanbrus/jonathanbrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
